@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Post App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_id_text">User ID: </string>
+    <string name="post_id_text">Post ID: </string>
+    <string name="title_text">Title: </string>
+    <string name="post_body">POST_BODY</string>
+    <string name="post_title">POST_TITLE</string>
+    <string name="post_id">POST_ID</string>
+    <string name="delete_text">Delete</string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_all_text">Delete All</string>
+</resources>
